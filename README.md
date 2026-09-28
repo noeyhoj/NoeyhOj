@@ -1,6 +1,4 @@
-<div align="start">
-  <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Welcome%20To%20My%20GitHub&fontSize=70" alt="header">
-  
+<div align="start">  
   <h1>🙋‍♂️ 개발자 김조현 입니다!</h1>
   
   코드를 볼 때 항상 **"왜?"** 라는 질문을 던지며 근본적인 동작 원리를 파고듭니다. 
@@ -28,15 +26,16 @@
   **우아한 테크코스 방과후 |**<a href="https://canva.link/51ar1vyx6gmg4lw"> 코틀린 코루틴 환경에서의 동시성 문제와 안전한 상태관리</a>
 </div>
   
-
-  
-  
   <h2>📝 Blog</h2>
   <a href="https://velog.io/@eungyeole">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=noeyh_0j" alt="Velog's GitHub stats">
   </a>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=noeyh_0j)](https://velog.io/@noeyh_0j/posts)
+
+  <h2>💻 Project</h2>
+  
+  [여백](https://github.com/woowacourse-teams/2026-yeobaek) | 온라인 교환독서 서비스 `In Progress`
   
   <h2>✉️ Contacts</h2>
   <div>
