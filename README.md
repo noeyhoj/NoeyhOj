@@ -27,7 +27,7 @@
 </div>
   
   <h2>📝 Blog</h2>
-  <a href="https://velog.io/@eungyeole">
+  <a href="https://velog.io/@noeyh_0j">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=noeyh_0j" alt="Velog's GitHub stats">
   </a>
   
