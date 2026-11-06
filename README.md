@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   </div>
   
-  <h2>🎤 Presentation</h2>
+  <h3>🎤 Presentation</h3>
   
-  **<h3>2026</h3>**
+  **<h4>2026</h4>**
   
   **우아한 테크코스 테코톡 |**<a href="https://canva.link/5bz3pmprg8y6cu2"> 단위 테스트로 나누는 것이 반드시 좋은 것일까?</a>
 
@@ -26,18 +26,20 @@
   **우아한 테크코스 방과후 |**<a href="https://canva.link/51ar1vyx6gmg4lw"> 코틀린 코루틴 환경에서의 동시성 문제와 안전한 상태관리</a>
 </div>
   
-  <h2>📝 Blog</h2>
+  <h3>📝 Blog</h3>
   <a href="https://velog.io/@noeyh_0j">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=noeyh_0j" alt="Velog's GitHub stats">
   </a>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=noeyh_0j)](https://velog.io/@noeyh_0j/posts)
-
-  <h2>💻 Project</h2>
+  <h3>💻 Project</h3>
   
   [여백](https://github.com/woowacourse-teams/2026-yeobaek) | 온라인 교환독서 서비스 `In Progress`
+
+  <h3>💬 Community</h3>
   
-  <h2>✉️ Contacts</h2>
+  우아한테크코스 | 8th Android 2026.02 - `In Progress`
+  
+  <h3>✉️ Contacts</h3>
   <div>
     <a href="https://github.com/NoeyhOj" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
